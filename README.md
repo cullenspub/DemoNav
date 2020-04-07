@@ -5,7 +5,7 @@ for implementing navigation in a modern Android application
 
 
 ## Principles of Navigation
-1. Fixed start destination  
+1. Apps have a fixed start destination  
 1. Navigation state is represented as a stack of destinations  
 1. Up and Back are identical within your app's task  
 1. The Up button never exits your app  
