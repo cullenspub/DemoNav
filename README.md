@@ -12,16 +12,17 @@ for implementing navigation in a modern Android application
 1. Deep linking simulates manual navigation  
 
 ## Tools of Navigation
-### Navigation Component
-#### Navigation graph
-destinations and actions
-#### NavHost
-NavHostFragment
-#### NavController
+1. Navigation Component
+1. Navigation graph
+   1. destinations and actions
+1. NavHost
+1. NavHostFragment
+1. NavController
 
 ## Fundemental Assumptions
 ### Android Jetpack (androidx...) as the primary component library
 ![Jetpack Functionality](images/Jetpack.png)
+### Single Activity App Architecture
 [Single Activity App as preferred architecture](https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1)
 
 ```
