@@ -25,25 +25,9 @@ for implementing navigation in a modern Android application
 ### Single Activity App Architecture
 [Single Activity App as preferred architecture](https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1)
 
-```
-No Example YET 
-```
-
-### Installing
-
-
-## Running the tests
-
-Use Android studio's testing framework 
 
 ## Built With
 Android Studio v3.6.2
-
-## Contributing
-
-
-## Versioning
-
 
 ## Authors
 
