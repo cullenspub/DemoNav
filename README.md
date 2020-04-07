@@ -5,11 +5,11 @@ for implementing navigation in a modern Android application
 
 
 ## Principles of Navigation
-### Fixed start destination  
-### Navigation state is represented as a stack of destinations  
-### Up and Back are identical within your app's task  
-### The Up button never exits your app  
-### Deep linking simulates manual navigation  
+1. Fixed start destination  
+1. Navigation state is represented as a stack of destinations  
+1. Up and Back are identical within your app's task  
+1. The Up button never exits your app  
+1. Deep linking simulates manual navigation  
 
 ## Tools of Navigation
 ### Navigation Component
